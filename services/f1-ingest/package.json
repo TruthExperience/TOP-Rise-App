@@ -7,6 +7,6 @@
     "start": "node ingest-server.js"
   },
   "dependencies": {
-    "@racehub-io/f1-telemetry-client": "^2.1.2"
+    "@deltazeroproduction/f1-udp-parser": "^1.2.2"
   }
 }
